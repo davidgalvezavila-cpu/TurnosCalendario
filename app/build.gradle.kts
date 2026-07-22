@@ -64,4 +64,5 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
 
     debugImplementation("androidx.compose.ui:ui-tooling")
+coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.4")
 }
