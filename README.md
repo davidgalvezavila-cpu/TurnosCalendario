@@ -95,3 +95,4 @@ Si todo va bien, el APK queda en tu carpeta de Descargas como `TurnosCalendario-
 - Múltiples turnos por día (turnos partidos).
 - Sincronización con Google Calendar.
 - Estadísticas (horas trabajadas por mes, por tipo de turno).
+
